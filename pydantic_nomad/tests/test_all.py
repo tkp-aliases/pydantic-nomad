@@ -1,4 +1,4 @@
-from pydantic_nomad import *  # noqa
+from pydantic_nomad import *
 
 
 def test_all():
